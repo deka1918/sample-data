@@ -10,4 +10,9 @@
 - cd sample-data/
 - ls
 
+# Jenis data
+- file yang berformat (.csv) adalah file sample yang akan dianalisis
+- file yang berformat (.ipynb) adalah file yang input dan output menggunakan "Jupyterlab" : https://jupyter.org/
+
+
 -- Semoga bermanfaat dan happy learning
