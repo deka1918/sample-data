@@ -5,7 +5,7 @@
 - Isi semua data didalamnya merupakan data olahan untuk simulasi bukan data yang sebenarnya
 - jika terdapat kesamaan data dan anda ingin koreksi ataupun tambahan referensi, bisa direct email ke: xplo17s@pm.me (agar koneksi dan komunikasi sedikit secure, disarankan menggunakan 'proton mail' : https://protonmail.com/)
 
-# Download on terminal
+# Download melalui terminal
 - git clone https://github.com/deka1918/sample-data.git
 - cd sample-data/
 - ls
@@ -14,11 +14,11 @@
 - file yang berformat (.csv) adalah file sample yang akan dianalisis
 - file yang berformat (.ipynb) adalah file yang input dan output menggunakan "Jupyterlab" : https://jupyter.org/
 
-# Instalasi Jupyterlab dan ipython on terminal
+# Instalasi Jupyterlab dan ipython melalui terminal
 - pip install jupyter-lab
 - pip install ipython
 
-# Untuk menjalankan program on terminal
+# Untuk menjalankan program melalui terminal
 - jupyter-lab
 - ipython
 
