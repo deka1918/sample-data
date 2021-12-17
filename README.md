@@ -5,7 +5,7 @@
 - Isi semua data didalamnya merupakan data olahan untuk simulasi bukan data yang sebenarnya
 - jika terdapat kesamaan data dan anda ingin koreksi ataupun tambahan referensi, bisa direct email ke: xplo17s@pm.me (agar koneksi dan komunikasi sedikit secure, disarankan menggunakan 'proton mail' : https://protonmail.com/)
 
-# Download via terminal
+# Download on terminal
 - git clone https://github.com/deka1918/sample-data.git
 - cd sample-data/
 - ls
@@ -14,5 +14,30 @@
 - file yang berformat (.csv) adalah file sample yang akan dianalisis
 - file yang berformat (.ipynb) adalah file yang input dan output menggunakan "Jupyterlab" : https://jupyter.org/
 
+# Instalasi Jupyterlab dan ipython on terminal
+- pip install jupyter-lab
+- pip install ipython
+
+# Untuk menjalankan program on terminal
+- jupyter-lab
+- ipython
+
+# Instalasi modul-modul pendukung
+- pip install pandas
+- pip install numpy
+- pip install matplotlib
+- pip install scipy
+- pip install seaborn
+- pip install statsmodels
+- dan masih banyak lainnya, semua open source (gratis) dan mudah instalasinya
+
+# Simple tips untuk command
+- Jupiter-lab:
+  - shift + enter = untuk eksekusi command atau perintah
+
+- Ipython:
+  - pwd = untuk mengetahui lokasi direktori saat ini
+  - cd = 'change directory', untuk pindah lokasi direktori
+  - ls = 'list' untuk melihat isi file dalam direktori tersebut
 
 -- Semoga bermanfaat dan happy learning
