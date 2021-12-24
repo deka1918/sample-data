@@ -35,6 +35,6 @@
   - cd = 'change directory', untuk pindah lokasi direktori
   - ls = 'list' untuk melihat isi file dalam direktori tersebut
 
-more info: xplo17s@pm.me (use only 'protonmail' for direct contact)
+xplo17s@pm.me (use only 'protonmail' to direct contact)
 
 -- Happy learning
