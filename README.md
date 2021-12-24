@@ -14,7 +14,7 @@
 - file yang berformat (.csv) adalah file sample yang akan dianalisis
 - file yang berformat (.ipynb) adalah file yang input dan output menggunakan "Jupyterlab" : https://jupyter.org/
 
-# Instalasi Jupyter-lab dan ipython melalui terminal
+# Instalasi Jupyter-lab atau ipython versi cli (terminal)
 - pip install jupyter-lab
 - pip install ipython
 
@@ -32,10 +32,7 @@
 - dan masih banyak lainnya, semua open source (gratis) dan mudah instalasinya
 
 # Simple tips untuk command
-- Jupyter-lab:
-  - shift + enter = untuk eksekusi command atau perintah
-
-- Ipython:
+  - shift + enter = untuk eksekusi command atau perintah (khusus untuk jupyter-lab, untuk ipython cukup enter)
   - pwd = untuk mengetahui lokasi direktori saat ini
   - cd = 'change directory', untuk pindah lokasi direktori
   - ls = 'list' untuk melihat isi file dalam direktori tersebut
