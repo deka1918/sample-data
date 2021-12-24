@@ -12,7 +12,7 @@
 # Jenis data
 - file yang berformat (.csv) adalah file sample yang akan dianalisis
 
-# Instalasi Jupyter-lab atau ipython versi cli (terminal)
+# Instalasi Jupyter-lab atau ipython (cli)
 - pip install jupyter-lab
 - pip install ipython
 
