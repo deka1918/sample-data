@@ -3,7 +3,6 @@
 - Ini adalah sample data yang diperuntukkan sebagai bahan edukasi atau learning
 - Semua data diperoleh dari berbagai sumber (open source), salah satunya dari Kaggle : https://www.kaggle.com/datasets?search=sales
 - Isi semua data didalamnya merupakan data olahan untuk simulasi bukan data yang sebenarnya
-- jika terdapat kesamaan data dan anda ingin koreksi ataupun tambahan referensi, bisa direct email ke: xplo17s@pm.me (agar koneksi dan komunikasi sedikit secure, disarankan menggunakan 'proton mail' : https://protonmail.com/)
 
 # Download melalui terminal
 - git clone https://github.com/deka1918/sample-data.git
@@ -12,7 +11,6 @@
 
 # Jenis data
 - file yang berformat (.csv) adalah file sample yang akan dianalisis
-- file yang berformat (.ipynb) adalah file yang input dan output menggunakan "Jupyterlab" : https://jupyter.org/
 
 # Instalasi Jupyter-lab atau ipython versi cli (terminal)
 - pip install jupyter-lab
@@ -37,4 +35,6 @@
   - cd = 'change directory', untuk pindah lokasi direktori
   - ls = 'list' untuk melihat isi file dalam direktori tersebut
 
--- Semoga bermanfaat dan happy learning
+more info: xplo17s@pm.me (use only 'protonmail' for direct contact)
+
+-- Happy learning
