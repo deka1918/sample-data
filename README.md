@@ -1,7 +1,7 @@
 # sample-data
 
 - Ini adalah sample data yang diperuntukkan sebagai bahan edukasi atau learning
-- Semua data diperoleh dari berbagai sumber (open source), salah satunya dari Kaggle : https://www.kaggle.com/datasets?search=sales
+- Semua data diperoleh dari berbagai sumber (open source), salah satunya dari Kaggle : https://www.kaggle.com/datasets
 - Isi semua data didalamnya merupakan data olahan untuk simulasi bukan data yang sebenarnya
 
 # Download melalui terminal
