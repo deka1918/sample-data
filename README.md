@@ -17,7 +17,7 @@
 
 # Instalasi Jupyter (lab dan notebook) atau ipython (cli)
 - pip install **jupyter** (untuk menjalankan, ketikan di terminal **jupyter notebook**)
-- pip install **jupyter-lab** (untuk menjalankan, ketikan di terminal **jupyter-lab**)
+- pip install **jupyterlab** (untuk menjalankan, ketikan di terminal **jupyter-lab**)
 - pip install **ipython** (untuk menjalankan, ketikan di terminal **ipython**)
 
 # Instalasi modul-modul pendukung
