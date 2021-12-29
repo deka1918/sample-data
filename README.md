@@ -10,7 +10,8 @@
 - ls
 
 # Jenis data
-- file yang berformat (.csv) adalah file sample yang akan dianalisis
+- file yang berformat (**.csv**) adalah file sample yang akan dianalisis
+- file yang berformat (**.ipynb**) adalah file sample untuk study case di (Jupyter)
 
 # Instalasi Jupyter (lab dan notebook) atau ipython (cli)
 - pip install **jupyter** (untuk menjalankan, ketikan di terminal **jupyter notebook**)
@@ -36,4 +37,4 @@
 
 xplo17s@pm.me (use only 'protonmail' to direct contact)
 
--- Happy learning
+-- Happy Hunting --
