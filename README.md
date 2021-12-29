@@ -9,6 +9,8 @@
 - cd sample-data/
 - ls
 
+![image](https://github.com/deka1918/sample-data/blob/main/gitclone.png?raw=true)
+
 # Jenis data
 - file yang berformat (**.csv**) adalah file sample yang akan dianalisis
 - file yang berformat (**.ipynb**) adalah file sample untuk study case di (Jupyter)
