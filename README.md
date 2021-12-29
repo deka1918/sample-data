@@ -12,13 +12,10 @@
 # Jenis data
 - file yang berformat (.csv) adalah file sample yang akan dianalisis
 
-# Instalasi Jupyter-lab atau ipython (cli)
-- pip install jupyter-lab
-- pip install ipython
-
-# Untuk menjalankan program melalui terminal
-- jupyter-lab
-- ipython
+# Instalasi Jupyter (lab dan notebook) atau ipython (cli)
+- pip install jupyter (untuk menjalankan, ketikan di terminal **jupyter notebook**)
+- pip install jupyter-lab (untuk menjalankan, ketikan di terminal **jupyter-lab**)
+- pip install ipython (untuk menjalankan, ketikan di terminal **ipython**)
 
 # Instalasi modul-modul pendukung
 - pip install pandas
