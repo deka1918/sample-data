@@ -37,6 +37,5 @@
   - **cd** = 'change directory', untuk pindah lokasi direktori
   - **ls** = 'list' untuk melihat isi file dalam direktori tersebut
 
-xplo17s@pm.me (use only 'protonmail' to direct contact)
 
 -- Happy Hunting --
